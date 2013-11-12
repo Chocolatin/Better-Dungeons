@@ -1,21 +1,20 @@
 ﻿#Translated by crafteverywhere
 #zh_CN
 #Items物品
-item.mechaGolem.name = Mecha Golem
-item.spearGun.name = Gun Spear
-item.dragonHelmet.name = Dragon Helmet
-item.swordWind.name = Wind Sword
-item.grenade.name = Hand Bomb
-item.grenadeSmall.name = Grenade
-item.grenadeSticky.name = Sticky Grenade
-item.healingPotion.name = Healing Potion
-item.bullHelmet.name = Ice Bull Helmet
-item.lichRobe.name = Lich Robe
-item.mageRobe.name = Mage Robe
-item.kingArmor.name = King Armor
-item.heavyBoots.name = Heavy Boots
-item.grenade.name = Grenade
-item.bubbleGun.name = Bubble Gun
+item.mechaGolem.name = 傀儡机甲
+item.spearGun.name = 火药标枪
+item.dragonHelmet.name = 龙头盔
+item.swordWind.name = 风之剑
+item.grenade.name = 投掷炸药
+item.grenadeSmall.name = 手雷
+item.grenadeSticky.name = 粘性手雷
+item.healingPotion.name = 治愈药水
+item.bullHelmet.name = 冰牛头盔
+item.lichRobe.name = 巫妖袍
+item.mageRobe.name = 法师袍
+item.kingArmor.name = 王之铠
+item.heavyBoots.name = 重靴
+item.bubbleGun.name = 泡泡枪
 item.quiver.name = 箭筒
 item.longBow.name = 长弓
 item.revolver.name = 左轮手枪
@@ -56,24 +55,25 @@ item.earthSword.name = 碎岩剑
 item.defenseSword.name = 晨曦之剑
 item.moonSword.name = 月牙之刃
 item.pirateDagger.name = 欺诈匕首
-item.banner.name = Banner
-item.shied.name = Shied
-
+item.banner.name = 旗帜
+item.shied.name = 盾牌
+ 
 #Bosses
 entity.BetterDungeons.SpiderBoss.name = 巨蛛尸罗
 entity.BetterDungeons.Monking.name = 头陀狒狒
 entity.BetterDungeons.SlimeBoss.name = 史莱姆王
 entity.BetterDungeons.TurtleBoss.name = 巨龟
 entity.BetterDungeons.IceBull.name = 冰牛
-entity.BetterDungeons.GolemBoss.name = Automated 毁灭者初号机
+entity.BetterDungeons.GolemBoss.name = 自动型毁灭者初号机
 entity.BetterDungeons.Necromancer.name = 巫术师
 entity.BetterDungeons.Liche.name = 巫妖
 entity.BetterDungeons.PigMage.name = 猪人法师
 entity.BetterDungeons.PirateBoss.name = 海贼王
 entity.BetterDungeons.WalkerBoss.name = 漫步者之王
-entity.BetterDungeons.dwarfBoss.name = Dwarf Engineer
-entity.BetterDungeons.dragonChinese.name = Nether Dragon
-entity.BetterDungeons.greenDragon.name = Gotterfunken
+entity.BetterDungeons.dwarfBoss.name = 地精工程师
+entity.BetterDungeons.dragonChinese.name = 下界龙
+entity.BetterDungeons.greenDragon.name = 绿龙
+ 
 #Entities实体
 entity.BetterDungeons.SummonedUndead.name = 被感召的亡灵
 entity.BetterDungeons.ArmoredSkeleton.name = 骷髅
@@ -95,8 +95,9 @@ entity.BetterDungeons.ArmoredEnderman.name = 末影人
 entity.BetterDungeons.SpecterBoss.name = 幽魂领主
 entity.BetterDungeons.GremlinBoss.name = 小妖精萨满
 entity.BetterDungeons.MinotaurBoss.name = 深渊牛头人
-entity.BetterDungeons.orcArmored.name = Orc
+entity.BetterDungeons.orcArmored.name = 兽人
 entity.BetterDungeons.mecha.name = 毁灭者初号机
+ 
 #Classes职业
 bd.defender= 盾战士
 bd.grenadier = 投弹手
@@ -108,6 +109,7 @@ bd.berseker = 狂战士
 bd.assasin = 忍者
 bd.spearman = 枪兵
 bd.hooker = 飞侠
+ 
 #Creative tabs创造模式物品栏标签
 itemGroup.dungeonGenerators = 地牢生成
 itemGroup.adventureItems = 冒险物品
