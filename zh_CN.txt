@@ -1,6 +1,25 @@
 ﻿#Translated by crafteverywhere
 #zh_CN
+#Blocks
+tile.BannerHolder.name = Banner Holder
+tile.bdTable.name = Table
+tile.bdArmorStand.name = Armor Stand
+
 #Items物品
+item.spikedGloves.name = Spiked Gloves
+item.ironHeavyBoots.name = Heavy Iron Boots
+item.ironHeavyPants.name = Heavy Iron Pants
+item.ironHeavyPlate.name = Heavy Iron Plate
+item.ironHeavyHelmet.name = Heavy Iron Helmet
+item.diamondHeavyBoots.name = Heavy Diamond Boots
+item.diamondHeavyPants.name = Heavy Diamond Pants
+item.diamondHeavyPlate.name = Heavy Diamond Plate
+item.diamondHeavyHelmet.name = Heavy Diamond Helmet
+item.translocator.name = Ender Translocator
+item.PathMarker.name = Path Marker
+item.golemController.name = Mecha-Golem Controller
+item.controller.name = Mercenary Controller
+
 item.mechaGolem.name = 傀儡机甲
 item.spearGun.name = 火药标枪
 item.dragonHelmet.name = 龙头盔
@@ -13,7 +32,6 @@ item.bullHelmet.name = 冰牛头盔
 item.lichRobe.name = 巫妖袍
 item.mageRobe.name = 法师袍
 item.kingArmor.name = 王之铠
-item.heavyBoots.name = 重靴
 item.bubbleGun.name = 泡泡枪
 item.quiver.name = 箭筒
 item.longBow.name = 长弓

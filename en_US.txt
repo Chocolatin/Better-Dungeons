@@ -1,5 +1,23 @@
 #Translated by Chocolatin
+#Blocks
+tile.BannerHolder.name = Banner Holder
+tile.bdTable.name = Table
+tile.bdArmorStand.name = Armor Stand
 #Items
+item.spikedGloves.name = Spiked Gloves
+item.ironHeavyBoots.name = Heavy Iron Boots
+item.ironHeavyPants.name = Heavy Iron Pants
+item.ironHeavyPlate.name = Heavy Iron Plate
+item.ironHeavyHelmet.name = Heavy Iron Helmet
+item.diamondHeavyBoots.name = Heavy Diamond Boots
+item.diamondHeavyPants.name = Heavy Diamond Pants
+item.diamondHeavyPlate.name = Heavy Diamond Plate
+item.diamondHeavyHelmet.name = Heavy Diamond Helmet
+item.translocator.name = Ender Translocator
+item.PathMarker.name = Path Marker
+item.golemController.name = Mecha-Golem Controller
+item.controller.name = Mercenary Controller
+
 item.mechaGolem.name = Mecha Golem
 item.spearGun.name = Gun Spear
 item.dragonHelmet.name = Dragon Helmet
@@ -12,7 +30,6 @@ item.bullHelmet.name = Ice Bull Helmet
 item.lichRobe.name = Lich Robe
 item.mageRobe.name = Mage Robe
 item.kingArmor.name = King Armor
-item.heavyBoots.name = Heavy Boots
 item.bubbleGun.name = Bubble Gun
 item.quiver.name = Quiver
 item.longBow.name = Long Bow
@@ -46,7 +63,7 @@ item.daggerDiamond.name = Diamond Dagger
 item.spearIron.name = Iron Spear
 item.spearDiamond.name = Diamond Spear
 item.bigswordIron.name = Iron Bigsword
-item.bigswordDiamond.name = Iron Bigsword
+item.bigswordDiamond.name = Diamond Bigsword
 item.staff.name = Staff
 item.turtleScale.name = Turtle Scale
 item.handle.name = Handle
@@ -56,7 +73,7 @@ item.moonSword.name = Moonlight
 item.pirateDagger.name = Trickster Dagger
 item.arrowPoison.name = Poison Arrow
 item.banner.name = Banner
-item.shied.name = Shied
+item.shied.name = Shield
 
 #Bosses
 entity.BetterDungeons.SpiderBoss.name = Shelob
