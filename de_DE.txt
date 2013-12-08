@@ -1,22 +1,22 @@
 ﻿#Translated by Vexatos
 #Blocks
-tile.BannerHolder.name = Banner Holder
-tile.bdTable.name = Table
-tile.bdArmorStand.name = Armor Stand
+tile.BannerHolder.name = Bannerstand
+tile.bdTable.name = Tisch
+tile.bdArmorStand.name = Rüstungsstand
 #Items
-item.spikedGloves.name = Spiked Gloves
-item.ironHeavyBoots.name = Heavy Iron Boots
-item.ironHeavyPants.name = Heavy Iron Pants
-item.ironHeavyPlate.name = Heavy Iron Plate
-item.ironHeavyHelmet.name = Heavy Iron Helmet
-item.diamondHeavyBoots.name = Heavy Diamond Boots
-item.diamondHeavyPants.name = Heavy Diamond Pants
-item.diamondHeavyPlate.name = Heavy Diamond Plate
-item.diamondHeavyHelmet.name = Heavy Diamond Helmet
-item.translocator.name = Ender Translocator
-item.PathMarker.name = Path Marker
-item.golemController.name = Mecha-Golem Controller
-item.controller.name = Mercenary Controller
+item.spikedGloves.name = Stachelige Handschuhe
+item.ironHeavyBoots.name = Schwere Eisenstiefel
+item.ironHeavyPants.name = Schwere Eisenhose
+item.ironHeavyPlate.name = Schwere Eisenbrustplatte
+item.ironHeavyHelmet.name = Schwerer Eisenhelm
+item.diamondHeavyBoots.name = Schwere Diamantstiefel
+item.diamondHeavyPants.name = Schwere Diamanthose
+item.diamondHeavyPlate.name = Schwere Diamantbrustplatte
+item.diamondHeavyHelmet.name = Schwerer Diamanthelm
+item.translocator.name = Ender-Translokator
+item.PathMarker.name = Pfadmarkierer
+item.golemController.name = Mecha-Golem-Kontrolle
+item.controller.name = Söldner-Kontrolle
 
 item.mechaGolem.name = Mecha-Golem
 item.spearGun.name = Pistolspeer
