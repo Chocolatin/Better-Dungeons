@@ -1,24 +1,24 @@
 ﻿#Translated by crafteverywhere
 #zh_CN
 #Blocks
-tile.BannerHolder.name = Banner Holder
-tile.bdTable.name = Table
-tile.bdArmorStand.name = Armor Stand
+tile.BannerHolder.name = 旗杆
+tile.bdTable.name = 桌子
+tile.bdArmorStand.name = 装备架
 
 #Items物品
-item.spikedGloves.name = Spiked Gloves
-item.ironHeavyBoots.name = Heavy Iron Boots
-item.ironHeavyPants.name = Heavy Iron Pants
-item.ironHeavyPlate.name = Heavy Iron Plate
-item.ironHeavyHelmet.name = Heavy Iron Helmet
-item.diamondHeavyBoots.name = Heavy Diamond Boots
-item.diamondHeavyPants.name = Heavy Diamond Pants
-item.diamondHeavyPlate.name = Heavy Diamond Plate
-item.diamondHeavyHelmet.name = Heavy Diamond Helmet
-item.translocator.name = Ender Translocator
-item.PathMarker.name = Path Marker
-item.golemController.name = Mecha-Golem Controller
-item.controller.name = Mercenary Controller
+item.spikedGloves.name = 蜘蛛手套
+item.ironHeavyBoots.name = 重型铁靴子
+item.ironHeavyPants.name = 重型铁护腿
+item.ironHeavyPlate.name = 重型铁胸甲
+item.ironHeavyHelmet.name = 重型铁头盔
+item.diamondHeavyBoots.name = 重型钻石靴子
+item.diamondHeavyPants.name = 重型钻石护腿
+item.diamondHeavyPlate.name = 重型钻石胸甲
+item.diamondHeavyHelmet.name = 重型钻石头盔
+item.translocator.name = 末影传送器
+item.PathMarker.name = 路径标记器
+item.golemController.name = 机械傀儡控制器
+item.controller.name = 雇佣兵控制器
 
 item.mechaGolem.name = 傀儡机甲
 item.spearGun.name = 火药标枪
