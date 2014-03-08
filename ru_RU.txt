@@ -111,7 +111,7 @@ entity.BetterDungeons.MinotaurArmored.name = Минотавр
 entity.BetterDungeons.ArmoredEnderman.name = Эндермен
 entity.BetterDungeons.SpecterBoss.name = Лорд-Призрак
 entity.BetterDungeons.GremlinBoss.name = Гремлин-Шаман
-entity.BetterDungeons.MinotaurBoss.name = Большой Минотавр
+entity.BetterDungeons.MinotaurBoss.name = Минотавр-Босс
 entity.BetterDungeons.orcArmored.name = Орк
 entity.BetterDungeons.mecha.name = Прототип терминатора
 
